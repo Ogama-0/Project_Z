@@ -16,6 +16,7 @@ j'espère que cela vous plaira
 
 pour le lancer il faut executer le "Main.exe".
 
+les sources du projet (musique images ext) sont dans le dossier nommer "sources"
 
 contact: 
 Oscar : 
